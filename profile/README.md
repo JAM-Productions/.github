@@ -2,7 +2,7 @@
 
 ## Who is JAM-Productions?
 
-JAM-Productions is a groups of developers who enjoy writing code and making projects (to become rich or not).
+JAM-Productions is a group of developers who enjoy writing code and making projects (to become rich or not).
 
 Nowdays, this organization is formed by the three co-founders:
 
