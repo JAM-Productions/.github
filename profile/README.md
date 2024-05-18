@@ -9,3 +9,4 @@ Nowdays, this organization is formed by:
 - [Jordi](https://github.com/jorbush)
 - [Albert](https://github.com/AlbertMartinezM)
 - [Mark](https://github.com/mriverre8)
+- [Alejandro](https://github.com/Alejandro9kgm)
