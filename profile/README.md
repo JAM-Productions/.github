@@ -1,12 +1,5 @@
 # JAM Productions
 
-## Who is JAM-Productions?
+JAM Productions is a passionate collective of developers who thrive on writing code and bringing creative projects to life—whether for profit, fun or just the love of problem-solving.
 
-JAM-Productions is a group of developers who enjoy writing code and making projects (to become rich or not).
-
-Nowdays, this organization is formed by:
-
-- [Jordi](https://github.com/jorbush)
-- [Albert](https://github.com/AlbertMartinezM)
-- [Mark](https://github.com/mriverre8)
-- [Alejandro](https://github.com/Alejandro9kgm)
+With a shared commitment to innovation and collaboration, we create solutions that inspire and excite.
